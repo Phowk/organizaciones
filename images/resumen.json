@@ -1,0 +1,9 @@
+{
+    "titular": "Estheban",
+    "identificacion": "1085905216",
+    "direccion": "Carrera 2A #23-74",
+    "telefono": "3172634723",
+    "correo": "estheban1023@gmail.com",
+    "saldo": [{"moneda":"USD", "valor": 300},{"moneda":"EUR", "valor": 0}],
+    "fechaInicial": "2014"
+}

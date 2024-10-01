@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: #EFC3CA;
+    color: rgb(193, 0, 0);
+}
+
+.logo img{
+
+    height: 180px;
+    width: 180px;
+    background-color: orange;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-style: italic;
+
+}
+
+h2, h3{
+    color: black;
+}
+
+.datos{
+    color: black;
+}
